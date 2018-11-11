@@ -418,6 +418,13 @@
 			"code": ":mag:",
 			"description": "Improving SEO",
 			"name": "mag"
-    	}
+    	},
+		{
+			"emoji":"🥊",
+			"entity":"&#x1f94A;",
+			"code":":boxing_glove:",
+			"description":"Solving conflicts",
+			"name":"boxing-glove"
+		},
 	]
 }
